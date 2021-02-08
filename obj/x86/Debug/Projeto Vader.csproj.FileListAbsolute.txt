@@ -1,0 +1,6 @@
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Projeto Vader\bin\x86\Debug\ProjetoVader.exe.config
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Projeto Vader\bin\x86\Debug\ProjetoVader.exe
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Projeto Vader\bin\x86\Debug\ProjetoVader.pdb
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Projeto Vader\bin\x86\Debug\InputSimulator.dll
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Projeto Vader\obj\x86\Debug\ProjetoVader.exe
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Projeto Vader\obj\x86\Debug\ProjetoVader.pdb

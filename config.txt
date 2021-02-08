@@ -1,0 +1,4 @@
+﻿pcName = Veider!
+Atalhos2 = C:\Users\[user]\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\
+Atalhos3 = C:\Users\[user]\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar
+Atalhos4 = C:\Users\Public\Desktop

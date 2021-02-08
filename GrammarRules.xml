@@ -1,0 +1,132 @@
+﻿<grammar version="1.0" xml:lang="pt-BR" mode="voice" root="rulesVader"
+ xmlns="http://www.w3.org/2001/06/grammar" tag-format="semantics/1.0">
+
+  <rule id="rulesVader" scope="public">
+    <item>
+        <item>
+          <ruleref uri="#PcName"/>
+          <tag> out.nome=rules.PcName; </tag>
+        </item>
+      <one-of>
+      <item>
+        <ruleref uri="#Teclado"/>
+        <tag> out.comando=rules.Teclado; </tag>
+      </item>
+      <item>
+        <ruleref uri="#Windowns"/>
+        <tag> out.comando=rules.Windowns; </tag>
+      </item>
+        <item>
+        <ruleref uri="#Atalhos"/>
+        <tag> out.comando=rules.Atalhos; </tag>
+      </item>
+        <item>
+          <ruleref uri="#Buttons"/>
+          <tag> out.comando=rules.Buttons; </tag>
+        </item>
+      </one-of>
+    </item>
+  </rule>
+
+  <rule id="PcName" scope="public">
+    <tag> out="PcName"; </tag>
+    <item>
+      <one-of>
+        <item> Veider </item>
+      </one-of>
+    </item>
+  </rule>
+
+  <rule id="Teclado" scope="public">
+    <tag> out="Teclado"; </tag>
+    <item>
+    <one-of>
+      <item> fechar </item>
+      <item> minimizar </item>
+      <item> maximizar </item>
+      <item> trocar </item>
+      <item> voltar </item>
+      <item> escolher </item>
+      <item> avançar </item>
+      <item> selecionar </item>
+      <item> criar_nova </item>
+     </one-of>
+      <one-of>
+        <item> Janela </item>
+        <item> Tudo </item>
+        <item> tela </item>
+        <item> guia </item>
+        <item> programa </item>
+     </one-of>
+      </item>
+   </rule>
+  
+  <rule id="Buttons" scope="public">
+    <tag> out="Buttons"; </tag>
+    <item>
+      <one-of>
+        <item> Apertar Botão </item>
+        <item> Ação </item>
+      </one-of>
+      <one-of>
+        <item> Esque </item>
+        <item> Enter </item>
+        <item> Rome </item>
+        <item> Endi </item>
+        <item> Peige_daum </item>
+        <item> Peige_ãpi </item>
+        <item> Tabi </item>
+        <item> printi_iscrim </item>
+        <item> colar </item>
+        <item> copiar </item>
+        <item> recortar </item>
+       </one-of>
+    </item>
+  </rule>
+
+
+  <rule id="Windowns" scope="public">
+    <tag> out="Windowns"; </tag>
+    <item>
+      <one-of>
+        <item> executar </item>
+        <item> abrir </item>
+      </one-of>
+      <one-of>
+        <item> documentos </item>
+        <item> calculadora </item>
+        <item> notepad </item>
+        <item> computador </item>
+        <item> paint </item>
+        <item> bloco de notas </item>
+      </one-of>
+    </item>
+  </rule>
+
+  <rule id="Atalhos" scope="public">
+    <tag> out="Atalhos"; </tag>
+    <item>
+      <one-of>
+        <item> executar </item>
+        <item> abrir </item>
+      </one-of>
+      <one-of>
+        <item>
+          <ruleref uri="#Programs"/>
+          <tag> out.programas=rules.Programs; </tag>
+        </item>
+      </one-of>
+    </item>
+  </rule>
+  
+  <rule id="Programs" scope="public">
+    <tag> out="Programs"; </tag>
+    <item>
+    <one-of>
+      <item> algo </item>
+    </one-of>
+    </item>
+  </rule>
+  
+
+</grammar>
