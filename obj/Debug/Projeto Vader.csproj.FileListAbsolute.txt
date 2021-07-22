@@ -1,0 +1,20 @@
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Projeto Vader\bin\Debug\ProjetoVader.exe.config
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Projeto Vader\bin\Debug\ProjetoVader.exe
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Projeto Vader\bin\Debug\ProjetoVader.pdb
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Projeto Vader\obj\Debug\ProjetoVader.exe
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Projeto Vader\obj\Debug\ProjetoVader.pdb
+D:\Project VS Testes\VS Projects\Projects\Projeto Vader\bin\Debug\ProjetoVader.exe.config
+D:\Project VS Testes\VS Projects\Projects\Projeto Vader\bin\Debug\ProjetoVader.exe
+D:\Project VS Testes\VS Projects\Projects\Projeto Vader\bin\Debug\ProjetoVader.pdb
+D:\Project VS Testes\VS Projects\Projects\Projeto Vader\obj\Debug\Projeto Vader.csproj.CoreCompileInputs.cache
+D:\Project VS Testes\VS Projects\Projects\Projeto Vader\obj\Debug\ProjetoVader.exe
+D:\Project VS Testes\VS Projects\Projects\Projeto Vader\obj\Debug\ProjetoVader.pdb
+D:\Project VS Testes\VS Projects\Projects\Projeto Vader\obj\Debug\Projeto Vader.csprojAssemblyReference.cache
+D:\Project VS Testes\VS Projects\Projects\Projeto Vader\obj\Debug\Projeto Vader.csproj.CopyComplete
+D:\DevStuffs\Desenv\Projeto Vader\bin\Debug\ProjetoVader.exe.config
+D:\DevStuffs\Desenv\Projeto Vader\bin\Debug\ProjetoVader.exe
+D:\DevStuffs\Desenv\Projeto Vader\bin\Debug\ProjetoVader.pdb
+D:\DevStuffs\Desenv\Projeto Vader\obj\Debug\Projeto Vader.csproj.CoreCompileInputs.cache
+D:\DevStuffs\Desenv\Projeto Vader\obj\Debug\Projeto Vader.csproj.CopyComplete
+D:\DevStuffs\Desenv\Projeto Vader\obj\Debug\ProjetoVader.exe
+D:\DevStuffs\Desenv\Projeto Vader\obj\Debug\ProjetoVader.pdb
